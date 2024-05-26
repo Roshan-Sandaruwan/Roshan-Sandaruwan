@@ -1,7 +1,7 @@
 ## Hi😊, I'm Roshan Sandaruwan <3
 
 <h3>About me</h3>
-<p> I am an undergraduate student pursuing a degree in software engineering at the Open University of Sri Lanka🎓. I specialize in <b>Designing and Developing Websites 💻 </b>. My deep passion for technology and relentless curiosity drive me to explore the ever-evolving world of software development continually. </p>
+<p> I am a software engineering undergraduate student at the Open University of Sri Lanka🎓. I specialize in <b>Designing and Developing Websites 💻 </b>. My deep passion for technology and relentless curiosity drive me to explore the ever-evolving world of software development continually. </p>
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{Roshan-Sandaruwan}/{your-repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
 ![GitHub followers](https://img.shields.io/github/followers/Roshan-Sandaruwan?style=flat&logo=GitHub&color=rgb(254,1,136))
