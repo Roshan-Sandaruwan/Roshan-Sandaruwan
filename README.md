@@ -6,14 +6,15 @@
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{Roshan-Sandaruwan}/{your-repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
 ![GitHub followers](https://img.shields.io/github/followers/Roshan-Sandaruwan?style=flat&logo=GitHub&color=rgb(254,1,136))
 
- 
-
+## How to reach me :
+Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
  
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact)
 
- ## How to reach me :
-Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
+
+
+
 
 
 
