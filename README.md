@@ -11,7 +11,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact)
 
  ## How to reach me :
- [LinkedIn](https://www.linkedin.com/in/your-profile-url)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
+
 
 
 
