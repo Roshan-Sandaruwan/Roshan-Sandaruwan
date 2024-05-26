@@ -1,10 +1,9 @@
-## Hi👋, I'm Roshan Sandaruwan 
+## Hi😊, I'm Roshan Sandaruwan <3
 
-<h3>About me</h3>
-<p>loren</p>
+<h3>About me :</h3>
+<p>I am an undergraduate student in software engineering at the Open University of Sri Lanka. I can design and develop websites.  </p>
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{your-username}/{your-repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
-
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact)
