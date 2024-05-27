@@ -10,7 +10,13 @@
 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
  
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p>
+
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact) -->
+
+
+
+
 
 
 
