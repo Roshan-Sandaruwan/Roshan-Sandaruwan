@@ -63,6 +63,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) fo
 </picture>
 
 
+![Snake animation](https://github.com/<Roshan-Sandaruwan>/Roshan-Sandaruwan>/blob/output/github-contribution-grid-snake.svg)
 
 
 
