@@ -9,10 +9,12 @@
 ## How to reach me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p>
+
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact) -->
 
 ## Languages and Tools
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p>
 
 <h3>Programming</h3>
 
