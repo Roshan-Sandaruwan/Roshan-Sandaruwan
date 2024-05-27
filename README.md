@@ -56,14 +56,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) fo
 <!--  [snake animation](https://github.com/Roshan-Sandaruwan/Roshan-Sandaruwan/blob/output/github-contribution-grid-snake2.svg) -->
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
-![Snake animation](https://github.com/<Roshan-Sandaruwan>/Roshan-Sandaruwan>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Roshan-Sandaruwan/Roshan-Sandaruwan/output/github-contribution-grid-snake-dark.svg)
 
 
 
