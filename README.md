@@ -55,13 +55,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) fo
 
 <!--  [snake animation](https://github.com/Roshan-Sandaruwan/Roshan-Sandaruwan/blob/output/github-contribution-grid-snake2.svg) -->
 
-
 ![Snake animation](https://raw.githubusercontent.com/Roshan-Sandaruwan/Roshan-Sandaruwan/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
-
 
 
 
