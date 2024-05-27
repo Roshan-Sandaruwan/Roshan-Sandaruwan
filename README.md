@@ -9,10 +9,27 @@
 ## How to reach me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
  
-## Most Used Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p>
-
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact) -->
+
+## Languages and Tools
+
+<h3>Programming</h3>
+
+<table>
+ <tr>
+  <th>Java</th>
+  <th>JS</th>
+  <th>php</th>
+  <th>Python</th>
+ </tr>
+ <tr>
+  <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </td>
+  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td>
+  <td> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></td>
+ <td> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
+ </tr>
+</table>
 
 
 
