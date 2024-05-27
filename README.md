@@ -9,7 +9,11 @@
 ![Snake animation](https://raw.githubusercontent.com/Roshan-Sandaruwan/Roshan-Sandaruwan/output/github-contribution-grid-snake-dark.svg)
 
 ## How to reach me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) for professional networking.
+Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-sandaruwan" height="30" width="40" /></a> for professional networking.
+
+<!-- [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) -->
+
+
  
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&layout=compact) -->
