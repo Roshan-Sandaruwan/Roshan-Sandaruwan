@@ -53,7 +53,21 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-sandaruwan/) fo
  </tr>
 </table>
 
-<!--  [snake animation](https://github.com/Roshan-Sandaruwan/Roshan-Sandaruwan/blob/output/github-contribution-grid-snake2.svg) -->
+<h3>Mobile App Development</h3>
+
+<table>
+ <tr>
+  <th>Android</th>
+  <th>React Native</th>
+ </tr>
+ 
+ <tr>
+  <td align = "center" ><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></td>
+  <td  align = "center"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></td>
+ </tr>
+</table>
+
+ 
 
 ![Snake animation](https://raw.githubusercontent.com/Roshan-Sandaruwan/Roshan-Sandaruwan/output/github-contribution-grid-snake-dark.svg)
 
