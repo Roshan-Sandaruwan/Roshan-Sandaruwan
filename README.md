@@ -18,7 +18,8 @@ Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="b
 
 ## Languages and Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-sandaruwan&&exclude_repo=roshan-sandaruwan&layout=compact&theme=dracula" alt="languages"/>
 
 <table>
  <tr>
