@@ -18,7 +18,14 @@ Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="b
 
 ## Languages and Tools
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,sass,react,nextjs,nodejs,php,mysql,mongodb,java,python,androidstudio,arduino,figma,git,github,laravel,postman,vite,wordpress,selenium" />
+  </a>
+</p>
+
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-sandaruwan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="roshan-sandaruwan" /></p> -->
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-sandaruwan&&exclude_repo=roshan-sandaruwan&layout=compact&theme=dracula" alt="languages"/>
 
 <table>
@@ -79,7 +86,7 @@ Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="b
  
 </table>
 
-
+-->
 
  
 
