@@ -25,6 +25,8 @@ Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="b
   </a>
 </p>
 
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-Sandaruwan&show_icons=true&theme=dracula)
+
 
 
 <!--
