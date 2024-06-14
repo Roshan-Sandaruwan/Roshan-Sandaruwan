@@ -9,7 +9,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Roshan-Sandaruwan/Roshan-Sandaruwan/output/github-contribution-grid-snake-dark.svg)
 
 <h3> 🙌🏼 I’m looking to collaborate on open-source projects </h3>
-<h3> 🌱 I’m currently learning MERN and ThreeJs </h3>
+<h3> 🌱 I’m currently learning MERN </h3>
 
 ## How to reach me
 Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-sandaruwan" height="30" width="40" /></a> for professional networking.
