@@ -12,7 +12,7 @@
 <h3> 🌱 I’m currently learning MERN </h3>
 
 ## How to reach me
-Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-sandaruwan" height="30" width="40" /></a> for professional networking.
+Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-sandaruwan" height="30" width="40" /></a> for professional networking.
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&&exclude_repo=Roshan-Sandaruwan&layout=compact&theme=dracula" alt="languages"/>
