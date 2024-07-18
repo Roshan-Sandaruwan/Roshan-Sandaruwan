@@ -17,7 +17,7 @@ Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="_
 
 <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&&exclude_repo=Roshan-Sandaruwan&layout=compact&theme=dracula" alt="languages"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&theme=dracula&layout=compact&langs_count=12&count_private=true" alt="Top Languages">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Sandaruwan&theme=dracula&layout=compact&langs_count=12&count_private=true" alt="Top Languages"> -->
 
 ## Languages and Tools
 
