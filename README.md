@@ -23,7 +23,7 @@ Connect with me on <a href="https://linkedin.com/in/roshan-sandaruwan" target="_
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,sass,react,nextjs,nodejs,express,php,mysql,mongodb,java,python,androidstudio,arduino,figma,git,github,laravel,postman,vite,wordpress,selenium,eclipse,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,sass,react,nextjs,nodejs,express,php,mysql,mongodb,java,python,flask,androidstudio,arduino,figma,git,github,laravel,postman,vite,wordpress,selenium,eclipse,vscode,visualstudio" />
   </a>
 </p>
 
